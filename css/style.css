@@ -58,6 +58,28 @@ h3{
     align-items: center;
     padding: 20px;
 }
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+section{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.figu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px black;
+    background-color: black;
+    border-radius: 80px;
+    max-width: 80%;
+}
+img{
+    margin: 20px;
+}
 figcaption{
     max-width: 430px;
     text-align: center;
